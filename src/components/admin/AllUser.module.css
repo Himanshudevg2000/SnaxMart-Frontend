@@ -1,0 +1,21 @@
+.headdiv{
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 5px;
+    margin: 15px 100px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+.headdiv ul {
+    padding: 0 15px;
+    /* border-bottom: 1px solid red; */
+    color: maroon;
+    font-weight: bold;
+}
+
+.heading{
+    text-align: center;
+    align-items: center;
+}

@@ -1,0 +1,35 @@
+.headdiv{
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 0 220px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+.btnaccess{
+    padding: 0.5rem;
+    border: 1px solid;
+    border-radius: 12px;
+}
+
+.btnaccess:hover{
+    background-color: lightgray;
+}
+
+.headdiv label{
+    font-weight: bold;
+}
+
+.headdiv ul {
+    padding: 0 15px;
+    /* border-bottom: 1px solid red; */
+    color: maroon;
+    font-weight: bold;
+}
+
+.heading{
+    text-align: center;
+    align-items: center;
+}
